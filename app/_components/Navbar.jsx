@@ -1,59 +1,40 @@
-import { Phone } from 'lucide-react'
 import Image from 'next/image'
 import React from 'react'
 
 const Navbar = () => {
     return (
-        <header className="bg-white">
-            <div className="mx-auto max-w-screen-xl px-1 sm:px-6 lg:px-1">
-                <div className="flex h-32 items-center justify-between">
+        <header className="bg-[#f8f9fa] sticky top-0">
+            <div className="mx-auto max-w-screen-xl px-5 sm:px-6 lg:px-1">
+                <div className="flex h-20 lg:h-24 items-center justify-between">
                     <div className="md:flex md:items-center md:gap-12">
                         <a className="block text-teal-600" href="#">
                             <Image src={"/logo.png"} alt='logo' width={200} height={50} />
                         </a>
                     </div>
-
                     <div className="hidden md:block">
                         <nav aria-label="Global">
                             <ul className="flex items-center gap-16 text-1xl text-center">
                                 <li>
-                                    <Image src={'/internet.webp'} alt='' width={30} height={30} className='mx-auto' />
-                                    <a className="text-black transition hover:text-gray-500/75" href="#"> Internet </a>
+                                    <a className="text-primary transition hover:text-primary font-semibold" href="#"> Home </a>
                                 </li>
-
                                 <li>
-                                    <Image src={'/Wireless.webp'} alt='' width={30} height={30} className='mx-auto' />
-                                    <a className="text-black transition hover:text-gray-500/75" href="#"> Wireless </a>
+                                    <a className="text-black transition hover:text-primary font-semibold" href="#"> About Us </a>
                                 </li>
-
                                 <li>
-                                    <Image src={'/TV.webp'} alt='' width={30} height={30} className='mx-auto' />
-                                    <a className="text-black transition hover:text-gray-500/75" href="#"> TV </a>
+                                    <a className="text-black transition hover:text-primary font-semibold" href="#"> Contact Us </a>
                                 </li>
                             </ul>
                         </nav>
                     </div>
-
                     <div className="items-center">
-                        <div className="items-center text-center">
+                        <div className="items-center text-center hidden lg:block mt-3">
                             <a
                                 className="rounded-full bg-primary px-5 py-4 text-1xl font-bold text-white shadow-sm"
-                                href="#"
+                                href="tel:+1-866-830-0112"
                             >
-                                Call 1-888-553-3023
+                                Call +1-866-830-0112
                             </a>
-
-                            <div className="hidden sm:flex mt-4">
-                                <a
-                                    className="rounded-full bg-primary px-5 py-3 text-sm font-bold text-white"
-                                    href="#"
-                                >
-                                    Hours of Operations <br />
-                                    Monday to Friday: 10am to 8pm (Eastern Time)
-                                </a>
-                            </div>
                         </div>
-
                         <div className="block md:hidden">
                             <button
                                 className="rounded-sm bg-gray-100 p-2 text-gray-600 transition hover:text-gray-600/75"
