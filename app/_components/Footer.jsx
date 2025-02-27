@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 const Footer = () => {
     return (
@@ -8,7 +9,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
                     <div>
                         <div className="flex justify-leftsm:justify-start">
-                            <Image src={"/logo-footer.webp"} alt='logo' width={300} height={100} />
+                           <Link href={"/"}><Image src={"/logo-footer.webp"} alt='logo' width={230} height={100} /></Link>
                         </div>
                         <p className="mt-6 max-w-md text-left leading-relaxed text-white sm:max-w-xs sm:text-left">
                             Lisam Solutions LLC is an authorized reseller of Altice, known as Optimum.
@@ -20,23 +21,18 @@ const Footer = () => {
 
                             <ul className="mt-5 lg:mt-8 space-y-4 text-sm">
                                 <li>
-                                    <a className="text-white" href="#">
-                                        About Us
-                                    </a>
-                                </li>
-                                <li>
-                                    <a className="text-white" href="#">
+                                    <Link className="text-white" href="contact-us">
                                         Contact Us
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a className="text-white" href="#">
+                                    <Link className="text-white" href="privacy-policy">
                                         Privacy Policy
-                                    </a>
+                                    </Link>
                                 </li>
 
                                 <li>
-                                    <a className="text-white" href="#"> Terms & Conditions </a>
+                                    <Link className="text-white" href="terms-conditions"> Terms & Conditions </Link>
                                 </li>
                             </ul>
                         </div>
@@ -121,20 +117,9 @@ const Footer = () => {
                                         className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
                                         href=""
                                     >
-                                        <svg
-                                            xmlns="http://www.w3.org/2000/svg"
-                                            className="size-5 shrink-0 text-white"
-                                            fill="none"
-                                            viewBox="0 0 24 24"
-                                            stroke="currentColor"
-                                            strokeWidth="2"
-                                        >
-                                            <path
-                                                strokeLinecap="round"
-                                                strokeLinejoin="round"
-                                                d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
-                                            />
-                                        </svg>
+
+                                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 text-white">
+                                        <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path> <path d="M12 6V12" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path> <path d="M16.24 16.24L12 12" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path></svg>
 
                                         <span className="flex-1 text-white">Hours of Operation: Mon- Fri, 10am to 8pm (Eastern Time)</span>
                                     </a>
