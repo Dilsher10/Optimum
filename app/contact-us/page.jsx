@@ -27,19 +27,19 @@ const page = () => {
                         <div className='text-center px-28 pb-5 mt-5'>
                             <Globe className='mx-auto text-primary w-8 h-8' />
                             <h3 className='font-bold text-2xl py-2 text-black'>Find us here</h3>
-                            <p className='text-black'>25121 Jericho Turnpike, Jamaica, NY 11426</p>
+                            <p className='text-black'>9237 Elk Grove Florin Rd Apt 127, Elk Grove, CA 95624</p>
                         </div>
                         <hr />
                         <div className='text-center p-5'>
                             <Mail className='mx-auto text-primary w-8 h-8' />
                             <h3 className='font-bold text-2xl py-2 text-black'>Email Us</h3>
-                            <p className='text-primary'>info@optimuminternetretailers.com</p>
+                            <p className='text-primary'>info@optimuminternetreseller.com</p>
                         </div>
                         <hr />
                         <div className='text-center p-5'>
                             <Smartphone className='mx-auto text-primary w-8 h-8' />
                             <h3 className='font-bold text-2xl py-2 text-black'>Call Us</h3>
-                            <p className='text-primary'>+1-866-830-0112</p>
+                            <p className='text-primary'>+1-877-451-0051</p>
                             <p className='text-black'>Open Monday to Friday 8:00 AM to 10:00 PM EST</p>
                         </div>
                     </div>

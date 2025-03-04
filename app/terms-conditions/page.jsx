@@ -9,14 +9,14 @@ const page = () => {
             <section className='bg-white py-10 px-5'>
                 <div className='mx-auto max-w-screen-xl'>
                     <h2 className='font-bold text-2xl pb-2 text-black'>Terms & Conditions</h2>
-                    <p className="text-black">Welcome to Lisam Solutions LLC! These Terms and Conditions govern your use of our services as an authorized reseller and sales agent for Altice and Optimum. By accessing or using our services, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.</p>
+                    <p className="text-black">Welcome to IT PRODIGY TECHNOLOGIES LLC! These Terms and Conditions govern your use of our services as an authorized reseller and sales agent for Altice and Optimum. By accessing or using our services, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.</p>
                     <p className="text-black">1. Definitions</p>
                     <p className="text-black">Personal Information</p>
 
                     <br />
-                    <p className="text-black">“Company,” “we,” “us,” and “our” refer to Lisam Solutions LLC.</p>
+                    <p className="text-black">“Company,” “we,” “us,” and “our” refer to IT PRODIGY TECHNOLOGIES LLC.</p>
                     <p className="text-black">“You” and “your” refer to the customer or user of our services.</p>
-                    <p className="text-black">“Services” refer to the products and services provided by Optimum and facilitated by Lisam Solutions LLC, including high-speed internet, mobile services, and cable TV.</p>
+                    <p className="text-black">“Services” refer to the products and services provided by Optimum and facilitated by IT PRODIGY TECHNOLOGIES LLC, including high-speed internet, mobile services, and cable TV.</p>
                     <br />
 
                     <p className="text-black">2. Use of Services</p>
@@ -74,7 +74,7 @@ const page = () => {
                     <p className="text-black">Ownership</p>
                     <br />
 
-                    <p className="text-black">All content and materials available through our services, including text, graphics, logos, and software, are the property of Lisam Solutions LLC or Optimum and are protected by intellectual property laws.</p>
+                    <p className="text-black">All content and materials available through our services, including text, graphics, logos, and software, are the property of IT PRODIGY TECHNOLOGIES LLC or Optimum and are protected by intellectual property laws.</p>
                     <p className="text-black">Limited License</p>
                     <br />
 
@@ -87,7 +87,7 @@ const page = () => {
                     <p className="text-black">Limitation of Liability</p>
                     <br />
 
-                    <p className="text-black">To the maximum extent permitted by law, Lisam Solutions LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:</p>
+                    <p className="text-black">To the maximum extent permitted by law, IT PRODIGY TECHNOLOGIES LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:</p>
                     <br />
 
                     <p className="text-black">Your use or inability to use our services.</p>
@@ -100,7 +100,7 @@ const page = () => {
 
                     <br />
 
-                    <p className="text-black">You agree to indemnify, defend, and hold harmless Lisam Solutions LLC, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys’ fees) arising from your use of our services or violation of these Terms and Conditions.</p>
+                    <p className="text-black">You agree to indemnify, defend, and hold harmless IT PRODIGY TECHNOLOGIES LLC, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys’ fees) arising from your use of our services or violation of these Terms and Conditions.</p>
                     <p className="text-black">9. Termination</p>
 
                     <br />
@@ -110,11 +110,11 @@ const page = () => {
 
                     <br />
 
-                    <p className="text-black">These Terms and Conditions shall be governed by and construed in accordance with the laws of the state in which Lisam Solutions LLC is headquartered, without regard to its conflict of law provisions.</p>
+                    <p className="text-black">These Terms and Conditions shall be governed by and construed in accordance with the laws of the state in which IT PRODIGY TECHNOLOGIES LLC is headquartered, without regard to its conflict of law provisions.</p>
                     <p className="text-black">11. Dispute Resolution</p>
 
                     <br />
-                    <p className="text-black">Any disputes arising out of or related to these Terms and Conditions or your use of our services shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall take place in the state in which Lisam Solutions LLC is headquartered.</p>
+                    <p className="text-black">Any disputes arising out of or related to these Terms and Conditions or your use of our services shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall take place in the state in which IT PRODIGY TECHNOLOGIES LLC is headquartered.</p>
                     <p className="text-black">12. Changes to These Terms and Conditions</p>
                     <br />
 
@@ -127,9 +127,9 @@ const page = () => {
 
                     <br />
 
-                    <p className="text-black">Phone: +1-866-830-0112</p>
-                    <p className="text-black">Email: info@optimuminternetretailers.com</p>
-                    <p className="text-black">Address: Lisam Solutions LLC 14402 W Bellfort St apt 132 Sugarland TX 77498</p>
+                    <p className="text-black">Phone: +1-877-451-0051</p>
+                    <p className="text-black">Email: info@optimuminternetreseller.com</p>
+                    <p className="text-black">Address: IT PRODIGY TECHNOLOGIES LLC 9237 Elk Grove Florin Rd Apt 127, Elk Grove, CA 95624</p>
 
                     <br />
 

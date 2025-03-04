@@ -9,18 +9,18 @@ const page = () => {
             <section className='bg-white py-10 px-5 lg:px-32'>
                 <div className=''>
                     <h2 className='font-bold text-2xl pb-2 text-black'>Privacy Policy</h2>
-                    <p className="text-black">At Lisam Solutions LLC, we are committed to protecting your privacy and ensuring that your personal information is handled with care and respect. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information when you interact with our services as an authorized retail and sales agent for Altice and Optimum.</p>
+                    <p className="text-black">At IT PRODIGY TECHNOLOGIES LLC, we are committed to protecting your privacy and ensuring that your personal information is handled with care and respect. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information when you interact with our services as an authorized retail and sales agent for Altice and Optimum.</p>
                     <p className="text-black">Information We Collect</p>
                     <p className="text-black">Personal Information</p>
 
                     <br />
-                    <p className="text-black">When you contact us or sign up for Optimum services through Lisam Solutions LLC, we may collect the following personal information:</p>
+                    <p className="text-black">When you contact us or sign up for Optimum services through IT PRODIGY TECHNOLOGIES LLC, we may collect the following personal information:</p>
                     <br />
 
                     <p className="text-black">Name: To identify you and personalize our communication.</p>
                     <p className="text-black">Email Address: To send you updates, confirmations, and promotional materials.</p>
                     <p className="text-black">Phone Number: To contact you regarding your service inquiries and support requests.</p>
-                    <p className="text-black">Address: To provide location-specific services and ensure accurate billing and installation.</p>
+                    <p className="text-black">Address: 9237 Elk Grove Florin Rd Apt 127, Elk Grove, CA 95624</p>
                     <p className="text-black">Payment Information: To process transactions securely.</p>
 
                     <br />
@@ -100,7 +100,7 @@ const page = () => {
                     <br />
 
                     <p className="text-black">Complying with legal obligations.</p>
-                    <p className="text-black">Protecting the rights, property, or safety of Lisam Solutions LLC, our customers, or others.</p>
+                    <p className="text-black">Protecting the rights, property, or safety of IT PRODIGY TECHNOLOGIES LLC, our customers, or others.</p>
                     <p className="text-black">Enforcing our terms and conditions.</p>
 
                     <br />
@@ -162,9 +162,9 @@ const page = () => {
 
                     <br />
 
-                    <p className="text-black">Phone: +1-866-830-0112</p>
-                    <p className="text-black">Email: info@optimuminternetretailers.com</p>
-                    <p className="text-black">Address: Lisam Solutions LLC 14402 W Bellfort St apt 132 Sugarland TX 77498</p>
+                    <p className="text-black">Phone: +1-877-451-0051</p>
+                    <p className="text-black">Email: info@optimuminternetreseller.com</p>
+                    <p className="text-black">Address: IT PRODIGY TECHNOLOGIES LLC 9237 Elk Grove Florin Rd Apt 127, Elk Grove, CA 95624</p>
 
                     <br />
 

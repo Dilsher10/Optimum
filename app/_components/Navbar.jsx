@@ -49,9 +49,9 @@ const Navbar = () => {
                         <div className="items-center text-center hidden lg:block mt-3">
                             <a
                                 className="rounded-full bg-primary px-5 py-4 text-1xl font-bold text-white shadow-sm"
-                                href="tel:+1-866-830-0112"
+                                href="tel:+1-877-451-0051"
                             >
-                                Call +1-866-830-0112
+                                Call +1-877-451-0051
                             </a>
                         </div>
                         <div className="block md:hidden">

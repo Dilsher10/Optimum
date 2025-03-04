@@ -15,9 +15,9 @@ export default function Home() {
             <p className="text-white text-sm pt-2">Experience 8 Gig Fiber Internet that’s 4x faster than Verizon and 60% faster than Frontier.</p>
             <a
               className="rounded-full bg-primary px-5 py-4 text-1xl font-bold text-white shadow-sm sm:hidden relative top-4 block w-52 mx-auto items-center text-center justify-center"
-              href="tel:+1-866-830-0112"
+              href="tel:+1-877-451-0051"
             >
-              Call +1-866-830-0112
+              Call +1-877-451-0051
             </a>
           </div>
           <div className="">
@@ -85,9 +85,9 @@ export default function Home() {
                 <p className="mt-2 text-gray-800 mb-5">w/Auto Pay & Paperless Bill plus taxes & fees</p>
                 <a
                   className="mt-4 rounded-full bg-[#0c0c0c] px-5 py-4 text-center text-sm font-medium text-white sm:mt-6"
-                  href="tel:+1-866-830-0112"
+                  href="tel:+1-877-451-0051"
                 >
-                  Call +1-866-830-0112
+                  Call +1-877-451-0051
                 </a>
               </div>
               <div className="p-6 sm:px-8">
@@ -126,9 +126,9 @@ export default function Home() {
                 <p className="mt-2 text-gray-800 mb-5">w/Auto Pay & Paperless Bill plus taxes & fees</p>
                 <a
                   className="mt-4 rounded-full bg-[#0c0c0c] px-5 py-4 text-center text-sm font-medium text-white sm:mt-6"
-                  href="tel:+1-866-830-0112"
+                  href="tel:+1-877-451-0051"
                 >
-                  Call +1-866-830-0112
+                  Call +1-877-451-0051
                 </a>
               </div>
               <div className="p-6 sm:px-8">
@@ -173,9 +173,9 @@ export default function Home() {
                 <p className="mt-2 text-gray-800 mb-5">w/Auto Pay & Paperless Bill plus taxes & fees</p>
                 <a
                   className="mt-4 rounded-full bg-[#0c0c0c] px-5 py-4 text-center text-sm font-medium text-white sm:mt-6"
-                  href="tel:+1-866-830-0112"
+                  href="tel:+1-877-451-0051"
                 >
-                  Call +1-866-830-0112
+                  Call +1-877-451-0051
                 </a>
               </div>
               <div className="p-6 sm:px-8">
@@ -218,9 +218,9 @@ export default function Home() {
                 <p className="mt-2 text-gray-800 mb-5">w/Auto Pay & Paperless Bill plus taxes & fees</p>
                 <a
                   className="mt-4 rounded-full bg-[#0c0c0c] px-5 py-4 text-center text-sm font-medium text-white sm:mt-6"
-                  href="tel:+1-866-830-0112"
+                  href="tel:+1-877-451-0051"
                 >
-                  Call +1-866-830-0112
+                  Call +1-877-451-0051
                 </a>
               </div>
               <div className="p-6 sm:px-8">
@@ -264,9 +264,9 @@ export default function Home() {
                 <p className="mt-2 text-gray-800 mb-5">w/Auto Pay & Paperless Bill plus taxes & fees</p>
                 <a
                   className="mt-4 rounded-full bg-[#0c0c0c] px-5 py-4 text-center text-sm font-medium text-white sm:mt-6"
-                  href="tel:+1-866-830-0112"
+                  href="tel:+1-877-451-0051"
                 >
-                  Call +1-866-830-0112
+                  Call +1-877-451-0051
                 </a>
               </div>
               <div className="p-6 sm:px-8">
@@ -338,7 +338,7 @@ export default function Home() {
           <h2 className="text-center font-bold text-2xl text-black">Ready to get Started?</h2>
           <p className="text-center pt-3 text-black">Call us today and snag a custom bundle with crazy fast speeds up to 8 Gig*, and a TV package and total home experience like only Optimum can bring you.</p>
           <p className="text-center pt-3 mb-10 font-bold text-black">*Not available in all areas.</p>
-          <a href="tel:+1-866-830-0112" className="bg-[#0c0c0c] text-white px-5 py-4 rounded-full">Call +1-866-830-0112</a>
+          <a href="tel:+1-877-451-0051" className="bg-[#0c0c0c] text-white px-5 py-4 rounded-full">Call +1-877-451-0051</a>
         </div>
       </section>
 
@@ -437,7 +437,7 @@ export default function Home() {
           <p className="text-black">Optimum Cable Customer Service is committed to enhancing your entertainment experience with comprehensive support tailored to your cable TV needs. Whether you’re exploring new channel options, troubleshooting picture or sound quality issues, or adding premium channels to your lineup, our representatives are ready to assist. We strive to ensure your viewing experience is seamless and enjoyable.
             Optimum Customer Service Number: Direct Access to Assistance</p>
           <br />
-          <p className="text-black">For immediate support, contact Optimum Customer Service at +1-866-830-0112. Our dedicated team is available to address your inquiries, technical issues, or account management needs promptly. Whether you prefer phone support, live chat, or visiting a local service center, we’re here to provide convenient access to reliable assistance.</p>
+          <p className="text-black">For immediate support, contact Optimum Customer Service at +1-877-451-0051. Our dedicated team is available to address your inquiries, technical issues, or account management needs promptly. Whether you prefer phone support, live chat, or visiting a local service center, we’re here to provide convenient access to reliable assistance.</p>
 
           <h3 className="font-bold text-2xl pt-5 pb-2 text-black">Optimum Customer Service is Available 24/7</h3>
           <p className="text-black">Optimum Customer Service sets the standard for exceptional support in the telecommunications industry. Our commitment to customer satisfaction means delivering prompt, knowledgeable, and courteous service at every interaction. Whether you’re troubleshooting technical issues, managing your account, or seeking advice on service upgrades, Optimum Customer Service ensures you receive the attention and solutions you deserve. Trust us to be your partner in connectivity, providing reliable support that enhances your Optimum experience.</p>
@@ -447,7 +447,7 @@ export default function Home() {
           <br />
           <p className="text-black">Experience Optimum Internet in your area with high-speed options designed to meet your specific needs. Our local support team can assist you in choosing the right plan, checking coverage availability, and optimizing your internet setup for optimal performance. Stay connected effortlessly with reliable speeds and responsive customer service. Contact Optimum: Easy Access to Support</p>
           <br />
-          <p className="text-black">Contacting Optimum is simple and convenient. Reach us directly at +1-866-830-0112 to speak with a knowledgeable representative who can assist with any inquiries, technical support needs, or service upgrades. Whether you prefer to call, chat online, or visit a nearby Optimum location, we’re committed to providing personalized support that enhances your Optimum experience.</p>
+          <p className="text-black">Contacting Optimum is simple and convenient. Reach us directly at +1-877-451-0051 to speak with a knowledgeable representative who can assist with any inquiries, technical support needs, or service upgrades. Whether you prefer to call, chat online, or visit a nearby Optimum location, we’re committed to providing personalized support that enhances your Optimum experience.</p>
 
 
           <h3 className="font-bold text-2xl pt-5 pb-2 text-black">Why Choose Optimum Services Near Me?</h3>

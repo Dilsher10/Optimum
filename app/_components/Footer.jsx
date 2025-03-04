@@ -9,10 +9,10 @@ const Footer = () => {
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
                     <div>
                         <div className="flex justify-leftsm:justify-start">
-                           <Link href={"/"}><Image src={"/logo-footer.webp"} alt='logo' width={230} height={100} /></Link>
+                            <Link href={"/"}><Image src={"/logo-footer.webp"} alt='logo' width={230} height={100} /></Link>
                         </div>
                         <p className="mt-6 max-w-md text-left leading-relaxed text-white sm:max-w-xs sm:text-left">
-                            Lisam Solutions LLC is an authorized reseller of Altice, known as Optimum.
+                            IT PRODIGY TECHNOLOGIES LLC is an authorized reseller of Altice, known as Optimum.
                         </p>
                     </div>
                     <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-2 lg:col-span-2">
@@ -43,7 +43,7 @@ const Footer = () => {
                                 <li>
                                     <a
                                         className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
-                                        href="tel:+1-866-830-0112"
+                                        href="tel:+1-877-451-0051"
                                     >
                                         <svg
                                             xmlns="http://www.w3.org/2000/svg"
@@ -60,13 +60,13 @@ const Footer = () => {
                                             />
                                         </svg>
 
-                                        <span className="flex-1 text-white">+1-866-830-0112</span>
+                                        <span className="flex-1 text-white">+1-877-451-0051</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a
                                         className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
-                                        href="mailto:info@optimuminternetretailers.com"
+                                        href="mailto:info@optimuminternetreseller.com"
                                     >
                                         <svg
                                             xmlns="http://www.w3.org/2000/svg"
@@ -83,7 +83,7 @@ const Footer = () => {
                                             />
                                         </svg>
 
-                                        <span className="flex-1 text-white">info@optimuminternetretailers.com</span>
+                                        <span className="flex-1 text-white">info@optimuminternetreseller.com</span>
                                     </a>
                                 </li>
                                 <li
@@ -109,7 +109,7 @@ const Footer = () => {
                                         />
                                     </svg>
                                     <address className="-mt-0.5 flex-1 not-italic text-white">
-                                        14402 W Bellfort St apt 132 Sugarland TX 77498
+                                        9237 Elk Grove Florin Rd Apt 127, Elk Grove, CA 95624
                                     </address>
                                 </li>
                                 <li>
@@ -119,7 +119,7 @@ const Footer = () => {
                                     >
 
                                         <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="size-5 shrink-0 text-white">
-                                        <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path> <path d="M12 6V12" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path> <path d="M16.24 16.24L12 12" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path></svg>
+                                            <path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path> <path d="M12 6V12" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path> <path d="M16.24 16.24L12 12" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path></svg>
 
                                         <span className="flex-1 text-white">Hours of Operation: Mon- Fri, 10am to 8pm (Eastern Time)</span>
                                     </a>
@@ -135,7 +135,7 @@ const Footer = () => {
                             <span className="block sm:inline">The name Altice or Optimum and the pathways logo are trademarks of Optimum.</span>
                         </p>
 
-                        <p className="mt-4 text-sm text-white sm:order-first sm:mt-0">&copy; COPYRIGHT © 2025 Lisam Solutions LLC – 14402 W Bellfort St apt 132 Sugarland TX 77498</p>
+                        <p className="mt-4 text-sm text-white sm:order-first sm:mt-0">&copy; COPYRIGHT © 2025 IT PRODIGY TECHNOLOGIES LLC – 9237 Elk Grove Florin Rd Apt 127, Elk Grove, CA 95624</p>
                     </div>
                 </div>
             </div>
